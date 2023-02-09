@@ -1,0 +1,19 @@
+{
+  "name": "skallar-bi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paulo de Assis",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "2.3",
+    "sequelize": "6.3"
+  },
+  "devDependencies": {
+    "sequelize-cli": "6.2"
+  }
+}
